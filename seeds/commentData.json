@@ -1,0 +1,12 @@
+[
+  {
+    "comment_text": "Sed dapibus molestie semper.",
+    "user_id": 1,
+    "post_id": 1
+  },
+  {
+    "comment_text": "Nam sodales, lorem vel maximus semper",
+    "user_id": 2,
+    "post_id": 1
+  }
+]

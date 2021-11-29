@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Neque porro quisquam est qui dolorem",
+    "content": "Donec nec augue id ante sagittis commodo. Sed ligula turpis, iaculis et commodo pharetra, bibendum et turpis. Nulla dolor nulla, dignissim ut magna vel, dictum tincidunt magna.",
+    "user_id": 1
+  },
+  {
+    "title": "Orci varius natoque penatibus",
+    "content": "Integer feugiat cursus consectetur. Nam fermentum libero vitae arcu lobortis, at malesuada nisl ultrices. Nullam quis facilisis massa. Pellentesque scelerisque ex ut accumsan faucibus.",
+    "user_id": 2
+  }
+]
